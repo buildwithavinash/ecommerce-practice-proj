@@ -3,6 +3,7 @@ import "./HomePage.css"
 const HomePage = () => {
   return (
     <>
+    <title>Ecommerce - HomePage</title>
       <div className="header">
         <div className="left-section">
           <a href="index.html" className="header-link">
